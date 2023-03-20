@@ -1,4 +1,4 @@
-# 30DaysOfJulia
+# IntroToJulia
 
 Julia is a high-level programming language designed for numerical and scientific computing, data analysis, and machine learning. It was first introduced in 2012 and has since gained popularity for its speed, efficiency, and ease of use.
 
